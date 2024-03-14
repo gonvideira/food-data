@@ -1,32 +1,32 @@
 ,Grupo,Nome,Porcao,Lípidos (g) Porcao,Hidratos (g) Porcao,Proteínas (g) Porcao,Álcool (g) Porcao
 0,Gorduras,Azeitona e Abacate,25.0,4.5,0.3,0.3,0.0
 1,Gorduras,Frutos Gordos,10.0,5.9,0.8,1.9,0.0
-2,Gorduras,Gorduras e óleos,7.0,6.1,0.0,0.0,0.0
+2,Gorduras,Gorduras e óleos,5.0,4.7,0.0,0.0,0.0
 3,Gorduras,Manteiga de frutos gordos,10.0,5.0,0.7,3.0,0.0
 4,Gorduras,Manteiga e cremes light,10.0,4.3,0.1,0.1,0.0
 5,Hidratos I,Bebida de soja,240.0,5.2,8.8,8.9,0.0
 6,Hidratos I,Bebida vegetal sem açúcar,240.0,2.6,0.2,1.0,0.0
-7,Hidratos I,Fruta (100g),100.0,0.3,10.0,0.7,0.0
-8,Hidratos I,Fruta (200g),175.0,0.6,9.0,1.2,0.0
+7,Hidratos I,Fruta (100g),100.0,0.3,9.9,0.7,0.0
+8,Hidratos I,Fruta (200g),170.0,0.7,10.1,1.2,0.0
 9,Hidratos I,Fruta (50g),47.0,0.2,9.3,0.3,0.0
-10,Hidratos I,Iogurtes proteicos magros,170.0,0.4,9.6,16.9,0.0
+10,Hidratos I,Iogurtes proteicos magros,138.0,0.2,9.8,13.2,0.0
 11,Hidratos I,Legumes (100g),100.0,0.5,3.5,2.0,0.0
 12,Hidratos I,Legumes (consumo livre),100.0,0.4,1.3,1.9,0.0
 13,Hidratos I,Leite Gordo,240.0,8.3,11.3,7.3,0.0
 14,Hidratos I,Leite e iogurte MG,244.0,3.9,12.0,8.6,0.0
-15,Hidratos I,Leite e iogurte magros,240.0,0.9,11.9,9.9,0.0
-16,Hidratos I,Queijo MG,35.0,7.4,1.0,5.8,0.0
-17,Hidratos I,Queijo magro,30.0,1.9,1.3,5.8,0.0
-18,Hidratos I,Sopa,250.0,3.8,12.9,4.0,0.0
+15,Hidratos I,Leite e iogurte magros,247.0,1.0,12.2,10.2,0.0
+16,Hidratos I,Queijo MG,40.0,7.9,0.8,7.2,0.0
+17,Hidratos I,Queijo magro,37.0,2.3,1.6,7.1,0.0
+18,Hidratos I,Sopa,250.0,3.2,11.9,3.0,0.0
 19,Hidratos II,Bolacha,20.0,3.1,13.0,1.8,0.0
 20,Hidratos II,Bolacha de Milho ou Arroz,20.0,0.6,16.4,1.6,0.0
-21,Hidratos II,Cereais e granola,20.0,0.5,13.7,2.1,0.0
-22,Hidratos II,Guarnição,56.0,0.6,14.0,1.9,0.0
-23,Hidratos II,Pão,28.0,0.8,15.2,2.6,0.0
+21,Hidratos II,Cereais e granola,22.0,0.6,14.4,2.4,0.0
+22,Hidratos II,Guarnição,60.0,0.6,14.1,1.8,0.0
+23,Hidratos II,Pão,27.0,0.7,14.6,2.5,0.0
 24,Leguminosas,Leguminosas,75.0,0.7,9.4,6.3,0.0
 25,Outros,Açúcares,15.0,0.0,14.8,0.0,0.0
 26,Outros,Claras,55.0,0.1,0.3,5.9,0.0
-27,Outros,Compotas,25.0,0.0,14.0,0.1,0.0
+27,Outros,Compotas,5.0,0.0,2.8,0.0,0.0
 28,Outros,Farinhas,20.0,0.5,14.2,1.9,0.0
 29,Outros,Fruta desidratada,15.0,0.3,9.1,0.6,0.0
 30,Outros,Vinho ou Cerveja,172.0,0.0,1.6,0.3,11.8
@@ -34,6 +34,6 @@
 32,Proteínas,Fiambre de aves,50.0,1.2,1.2,7.1,0.0
 33,Proteínas,Ovos,60.0,6.2,0.0,7.6,0.0
 34,Proteínas,Peixes gordos,30.0,3.7,0.0,6.9,0.0
-35,Proteínas,Soja,60.0,4.5,3.4,7.5,0.0
+35,Proteínas,Soja,50.0,3.8,2.8,6.2,0.0
 36,Proteínas,Tofu,60.0,2.6,0.4,5.1,0.0
-37,Proteínas,Whey e proteína vegetal,15.0,0.7,0.6,12.5,0.0
+37,Proteínas,Whey e proteína vegetal,30.0,1.4,1.1,25.1,0.0

@@ -1,6 +1,6 @@
 ,Grupo,Nome,Alimento,Porcao,Medida Caseira
-1,Outros,Açúcares,Açúcar branco,15,1 colher de sobremesa
-2,Gorduras,Azeitona e Abacate,"Abacate, Hass",25,1 metade
+1,Outros,Açúcares,Açúcar branco,15,1 colher de sobremesa de açucar
+2,Gorduras,Azeitona e Abacate,"Abacate, Hass",25,1 colher de sopa
 5,Hidratos I,Bebida de soja,"Bebida à base de soja com açúcar, sal e aromas",240,1 caneca
 9,Hidratos II,Bolacha,"Bolacha ""Cream cracker""",20,4 bolachas
 10,Hidratos II,Bolacha,Bolacha água e sal,20,8 bolachas
@@ -9,59 +9,194 @@
 15,Hidratos II,Bolacha,Marinheiras,20,4 bolachas
 16,Hidratos II,Bolacha de Milho ou Arroz,Bolacha arroz,20,3 bolachas
 17,Hidratos II,Bolacha de Milho ou Arroz,Bolacha milho,20,3 bolachas
-18,Proteínas,Carne e Peixe,Bacalhau cozido,30,
-21,Proteínas,Carne e Peixe,Bife de porco grelhado,30,
-22,Proteínas,Carne e Peixe,"Bife de vaca (valor médio de acém, alcatra e lombo) grelhado",30,
-23,Proteínas,Carne e Peixe,Cantarilho (Redfish) cozido,30,
-29,Proteínas,Carne e Peixe,Costeleta de cabrito grelhada,30,
-31,Proteínas,Carne e Peixe,Costeleta de vitela grelhada,30,
-35,Proteínas,Carne e Peixe,Dourada grelhada,30,
-41,Proteínas,Carne e Peixe,"Frango inteiro sem pele, cozido",30,
-42,Proteínas,Carne e Peixe,"Frango inteiro sem pele, estufado sem molho",30,
-44,Proteínas,Carne e Peixe,Garoupa cozida,30,
-50,Proteínas,Carne e Peixe,Linguado grelhado,30,
-51,Proteínas,Carne e Peixe,Lombo de porco grelhado,30,
-52,Proteínas,Carne e Peixe,Lombo de vitela grelhado,30,
-53,Proteínas,Carne e Peixe,Maruca cozida,30,
-58,Proteínas,Carne e Peixe,Peito de cabrito grelhado,30,
-67,Proteínas,Carne e Peixe,"Perna de frango sem pele, cozida",30,
-69,Proteínas,Carne e Peixe,Pescada cozida (valor médio),30,
-78,Hidratos II,Cereais e granola,"Cereal de pequeno almoço à base de farelo de trigo (tipo ""All-Bran"")",20,
-79,Hidratos II,Cereais e granola,"Cereal de pequeno almoço de trigo integral tipo ""Weetabix""",20,
-81,Hidratos II,Cereais e granola,Flocos de aveia,20,
-83,Hidratos II,Cereais e granola,"Flocos de cereais e frutos secos tipo ""Muesli""",20,
-89,Outros,Claras,"Clara de ovo de galinha, crua",55,
-91,Outros,Compotas,Compota de ameixa,25,
-97,Outros,Farinhas,Farinha de aveia,20,
-98,Outros,Farinhas,Farinha de centeio,20,
-104,Outros,Farinhas,Farinha de trigo integral,20,
-106,Outros,Farinhas,Farinha de trigo tipo 55,20,
-107,Proteínas,Fiambre de aves,Fiambre de aves,50,
-112,Hidratos I,Fruta (100g),Ameixa encarnada,100,
-114,Hidratos I,Fruta (100g),Ananás ,100,
-117,Hidratos I,Fruta (100g),Cereja (4 variedades),100,
-118,Hidratos I,Fruta (100g),Clementina,100,
-120,Hidratos I,Fruta (100g),Laranja (3 variedades),100,
-121,Hidratos I,Fruta (100g),Maçã (média com e sem casca),100,
-128,Hidratos I,Fruta (100g),Nectarina,100,
-130,Hidratos I,Fruta (100g),Papaia,100,
-131,Hidratos I,Fruta (100g),Pera (5 variedades),100,
-133,Hidratos I,Fruta (100g),Pêssego (2 variedades),100,
-134,Hidratos I,Fruta (100g),"Quivi, ""Kiwi""",100,
-135,Hidratos I,Fruta (100g),Romã,100,
-137,Hidratos I,Fruta (100g),Tangerina,100,
-140,Hidratos I,Fruta (200g),Amora,200,
-141,Hidratos I,Fruta (200g),Framboesa,200,
-144,Hidratos I,Fruta (200g),Mirtilo,200,
-145,Hidratos I,Fruta (200g),Morango,200,
-147,Hidratos I,Fruta (200g),Melancia,200,
-148,Hidratos I,Fruta (200g),Melão (3 variedades),200,
-149,Hidratos I,Fruta (200g),Meloa,200,
-150,Hidratos I,Fruta (50g),Banana,50,
-151,Hidratos I,Fruta (50g),Figo (5 variedades),50,
-153,Hidratos I,Fruta (50g),"Uva (média, branca e tinta)",50,
-174,Gorduras,Frutos Gordos,"Amêndoa, miolo, com pele",10,
-176,Gorduras,Frutos Gordos,"Amendoim, miolo",10,
-178,Gorduras,Frutos Gordos,"Avelã, miolo",10,
-180,Gorduras,Frutos Gordos,Castanha do Brasil,10,
-186,Gorduras,Gorduras e óleos,Azeite (4 marcas),5,
+18,Proteínas,Carne e Peixe,Bacalhau cozido,30,30 gramas
+21,Proteínas,Carne e Peixe,Bife de porco grelhado,30,30 gramas
+22,Proteínas,Carne e Peixe,"Bife de vaca (valor médio de acém, alcatra e lombo) grelhado",30,30 gramas
+23,Proteínas,Carne e Peixe,Cantarilho (Redfish) cozido,30,30 gramas
+29,Proteínas,Carne e Peixe,Costeleta de cabrito grelhada,30,30 gramas
+31,Proteínas,Carne e Peixe,Costeleta de vitela grelhada,30,30 gramas
+35,Proteínas,Carne e Peixe,Dourada grelhada,30,30 gramas
+41,Proteínas,Carne e Peixe,"Frango inteiro sem pele, cozido",30,30 gramas
+42,Proteínas,Carne e Peixe,"Frango inteiro sem pele, estufado sem molho",30,30 gramas
+44,Proteínas,Carne e Peixe,Garoupa cozida,30,30 gramas
+50,Proteínas,Carne e Peixe,Linguado grelhado,30,30 gramas
+51,Proteínas,Carne e Peixe,Lombo de porco grelhado,30,30 gramas
+52,Proteínas,Carne e Peixe,Lombo de vitela grelhado,30,30 gramas
+53,Proteínas,Carne e Peixe,Maruca cozida,30,30 gramas
+58,Proteínas,Carne e Peixe,Peito de cabrito grelhado,30,30 gramas
+67,Proteínas,Carne e Peixe,"Perna de frango sem pele, cozida",30,30 gramas
+69,Proteínas,Carne e Peixe,Pescada cozida (valor médio),30,30 gramas
+78,Hidratos II,Cereais e granola,"Cereal de pequeno almoço à base de farelo de trigo (tipo ""All-Bran"")",40,3/4 de uma chávena de chá
+79,Hidratos II,Cereais e granola,"Cereal de pequeno almoço de trigo integral tipo ""Weetabix""",20,"1 ""biscoito"""
+81,Hidratos II,Cereais e granola,Flocos de aveia,20,2 colheres de sopa rasas
+83,Hidratos II,Cereais e granola,"Flocos de cereais e frutos secos tipo ""Muesli""",20,2 colheres de sopa rasas
+89,Outros,Claras,"Clara de ovo de galinha, crua",55,55 gramas
+91,Outros,Compotas,Compota de ameixa,5,1 colher de chá
+97,Outros,Farinhas,Farinha de aveia,20,"2,5 colheres de sopa rasas"
+98,Outros,Farinhas,Farinha de centeio,20,"2,5 colheres de sopa rasas"
+104,Outros,Farinhas,Farinha de trigo integral,20,"2,5 colheres de sopa rasas"
+106,Outros,Farinhas,Farinha de trigo tipo 55,20,"2,5 colheres de sopa rasas"
+107,Proteínas,Fiambre de aves,Fiambre de aves,50,3 fatias
+112,Hidratos I,Fruta (100g),Ameixa encarnada,100,3 ameixas
+114,Hidratos I,Fruta (100g),Ananás ,100,1 fatia
+115,Hidratos I,Fruta (100g),Cereja (4 variedades),100,20 cerejas
+116,Hidratos I,Fruta (100g),Clementina,100,2 clementinas
+118,Hidratos I,Fruta (100g),Laranja (3 variedades),100,1 laranja
+119,Hidratos I,Fruta (100g),Maçã (média com e sem casca),100,1 maçã
+126,Hidratos I,Fruta (100g),Nectarina,100,1 nectarina
+128,Hidratos I,Fruta (100g),Papaia,100,1/4 de papaia
+129,Hidratos I,Fruta (100g),Pera (5 variedades),100,1 pêra
+131,Hidratos I,Fruta (100g),Pêssego (2 variedades),100,1 pessego
+132,Hidratos I,Fruta (100g),"Quivi, ""Kiwi""",100,1 kiwi
+133,Hidratos I,Fruta (100g),Romã,100,1 romã
+135,Hidratos I,Fruta (100g),Tangerina,100,2 tangerinas
+138,Hidratos I,Fruta (200g),Amora,200,1/2 chavena de chá
+139,Hidratos I,Fruta (200g),Framboesa,200,1/2 chavena de chá
+140,Hidratos I,Fruta (200g),Mirtilo,200,1/2 chávena
+141,Hidratos I,Fruta (200g),Morango,200,8 morangos
+143,Hidratos I,Fruta (200g),Melancia,200,1 fatia
+144,Hidratos I,Fruta (200g),Melão (3 variedades),200,1 fatia
+145,Hidratos I,Fruta (200g),Meloa,200,2 fatias
+146,Hidratos I,Fruta (50g),Banana,50,1/2 banana média
+147,Hidratos I,Fruta (50g),Figo (5 variedades),50,1 figo
+149,Hidratos I,Fruta (50g),"Uva (média, branca e tinta)",50,8 uvas
+170,Gorduras,Frutos Gordos,"Amêndoa, miolo, com pele",10,5 amendoas
+172,Gorduras,Frutos Gordos,"Amendoim, miolo",10,9 amendoins
+174,Gorduras,Frutos Gordos,"Avelã, miolo",10,9 amendoins
+176,Gorduras,Frutos Gordos,Castanha do Brasil,10,1 castanha do brasil
+182,Gorduras,Gorduras e óleos,Azeite (4 marcas),5,1 colher de chá
+186,Hidratos II,Guarnição,Arroz cozido simples,60,3 colheres de sopa rasas (20g em crú)
+187,Hidratos II,Guarnição,"Batata assada com pele, sem sal (só a polpa)",60,uma batata pequena (80g)
+188,Hidratos II,Guarnição,Batata assada no forno,60,uma batata pequena (80g)
+189,Hidratos II,Guarnição,Batata cozida,60,uma batata pequena (80g)
+190,Hidratos II,Guarnição,Batata doce assada,60,uma batata pequena (80g)
+191,Hidratos II,Guarnição,Couscous cozido,60,3 colheres de sopa rasas (20g em crú)
+192,Hidratos II,Guarnição,Esparguete cozido,60,3 colheres de sopa rasas (20g em crú)
+193,Hidratos II,Guarnição,Quinoa cozida,60,3 colheres de sopa rasas (20g em crú)
+194,Hidratos I,Iogurtes proteicos magros,"Iogurte sem lactose enriquecido em proteína, magro, aromatizado, com pedaços e/ou polpa de fruta, açucarado",150,1 iogurte skyr
+195,Hidratos I,Iogurtes proteicos magros,Queijo Quark natural magro,125,125g de queijo quark
+196,Hidratos I,Legumes (100g),Alcachofra crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+197,Hidratos I,Legumes (100g),Alcaparras (picles),100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+198,Hidratos I,Legumes (100g),Alho-francês cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+199,Hidratos I,Legumes (100g),Beringela crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+200,Hidratos I,Legumes (100g),Beterraba (raiz) crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+201,Hidratos I,Legumes (100g),Cebola crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+202,Hidratos I,Legumes (100g),"Cebola doce, crua",100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+203,Hidratos I,Legumes (100g),Cenoura baby crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+204,Hidratos I,Legumes (100g),Cenoura crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+205,Hidratos I,Legumes (100g),Chalota,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+206,Hidratos I,Legumes (100g),Chuchu,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+207,Hidratos I,Legumes (100g),Couve-branca crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+208,Hidratos I,Legumes (100g),Couve-de-Bruxelas crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+209,Hidratos I,Legumes (100g),Couve-flor crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+210,Hidratos I,Legumes (100g),Couve-galega crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+211,Hidratos I,Legumes (100g),Couve-lombarda crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+212,Hidratos I,Legumes (100g),Couve-portuguesa crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+213,Hidratos I,Legumes (100g),Couve-roxa crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+214,Hidratos I,Legumes (100g),Curgete crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+215,Hidratos I,Legumes (100g),Espargos crus,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+216,Hidratos I,Legumes (100g),Feijão-verde fresco cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+217,Hidratos I,Legumes (100g),Funcho fresco,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+218,Hidratos I,Legumes (100g),Grelos de couve crus,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+219,Hidratos I,Legumes (100g),Grelos de nabo crus,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+220,Hidratos I,Legumes (100g),Malagueta vermelha fresca,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+221,Hidratos I,Legumes (100g),Nabo (raiz) cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+222,Hidratos I,Legumes (100g),Pimento cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+223,Hidratos I,Legumes (100g),Quiabo cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+224,Hidratos I,Legumes (100g),Rebentos de soja crus,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+225,Hidratos I,Legumes (100g),Tomate cherry cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+226,Hidratos I,Legumes (100g),Tomate cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+227,Hidratos I,Legumes (consumo livre),Abóbora crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+228,Hidratos I,Legumes (consumo livre),Agrião cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+229,Hidratos I,Legumes (consumo livre),Aipo cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+230,Hidratos I,Legumes (consumo livre),Alface,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+231,Hidratos I,Legumes (consumo livre),Alface roxa,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+232,Hidratos I,Legumes (consumo livre),Beldroega crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+233,Hidratos I,Legumes (consumo livre),Brócolos cozidos,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+234,Hidratos I,Legumes (consumo livre),Brócolos crus,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+235,Hidratos I,Legumes (consumo livre),Chicória crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+236,Hidratos I,Legumes (consumo livre),Chucrute,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+237,Hidratos I,Legumes (consumo livre),Cogumelos crus,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+238,Hidratos I,Legumes (consumo livre),"Cogumelos enlatados, escorridos",100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+239,Hidratos I,Legumes (consumo livre),Couve-lombarda cozida,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+240,Hidratos I,Legumes (consumo livre),Endívia crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+241,Hidratos I,Legumes (consumo livre),Espinafres crus,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+242,Hidratos I,Legumes (consumo livre),Grelos de couve cozidos,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+243,Hidratos I,Legumes (consumo livre),Grelos de nabo cozidos,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+244,Hidratos I,Legumes (consumo livre),Nabiça crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+245,Hidratos I,Legumes (consumo livre),Pepino cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+246,Hidratos I,Legumes (consumo livre),Rabanete cru,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+247,Hidratos I,Legumes (consumo livre),Rebentos de alfalfa crus,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+248,Hidratos I,Legumes (consumo livre),Rúcula crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+249,Hidratos I,Legumes (consumo livre),Canónigos crus,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+250,Hidratos I,Legumes (consumo livre),Acelga crua,100,100g de vegetais em cru (1 chávena) ou meia chavena de vegetais cozinhados
+251,Leguminosas,Leguminosas,Ervilhas secas cozidas,80,3 colheres de sopa de leguminosas cozinhadas
+261,Leguminosas,Leguminosas,"Tremoço cozido, sem sal",50,2 colheres de sopa de tremoço cozido
+262,Leguminosas,Leguminosas,"Tremoço, cozido e salgado",50,2 colheres de sopa de tremoço cozido
+263,Hidratos I,Leite e iogurte magros,Iogurte grego magro natural ,250,2 iogurtes sólidos de 125g cada
+264,Hidratos I,Leite e iogurte magros,"Iogurte magro, com cereais e edulcorantes",250,2 iogurtes sólidos de 125g cada
+265,Hidratos I,Leite e iogurte magros,"Iogurte magro, natural ",250,2 iogurtes sólidos de 125g cada
+266,Hidratos I,Leite e iogurte magros,"Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, com edulcorantes",250,2 iogurtes sólidos de 125g cada
+267,Hidratos I,Leite e iogurte magros,"Iogurte sem lactose magro, aromatizado, com pedaços e/ou polpa de fruta, com edulcorantes",250,2 iogurtes sólidos de 125g cada
+268,Hidratos I,Leite e iogurte magros,"Iogurte sem lactose magro, natural",250,2 iogurtes sólidos de 125g cada
+269,Hidratos I,Leite e iogurte magros,"Leite magro de pastagem, UHT ",240,1 chavéna de leite (=240ml)
+270,Hidratos I,Leite e iogurte magros,"Leite magro sem lactose, UHT",240,1 chavéna de leite (=240ml)
+271,Hidratos I,Leite e iogurte magros,"Leite magro, UHT",240,1 chavéna de leite (=240ml)
+272,Hidratos I,Leite e iogurte MG,"Iogurte meio gordo, natural",250,2 iogurtes sólidos de 125g cada
+273,Hidratos I,Leite e iogurte MG,"Iogurte sem lactose meio gordo, natural",250,2 iogurtes sólidos de 125g cada
+274,Hidratos I,Leite e iogurte MG,"Leite meio gordo de pastagem, UHT",240,1 chavéna de leite (=240ml)
+275,Hidratos I,Leite e iogurte MG,"Leite meio gordo sem lactose, UHT",240,1 chavéna de leite (=240ml)
+276,Hidratos I,Leite e iogurte MG,"Leite meio gordo, UHT",240,1 chavéna de leite (=240ml)
+277,Hidratos I,Leite Gordo,"Leite gordo especial, pasteurizado ",240,1 chavéna de leite (=240ml)
+278,Hidratos I,Leite Gordo,"Leite gordo sem lactose, enriquecido com vitaminas A, D, E e B9 (ácido fólico), UHT",240,1 chavéna de leite (=240ml)
+279,Hidratos I,Leite Gordo,"Leite gordo, pasteurizado",240,1 chavéna de leite (=240ml)
+280,Hidratos I,Leite Gordo,"Leite gordo, UHT",240,1 chavéna de leite (=240ml)
+281,Gorduras,Manteiga de frutos gordos,Manteiga Amendoim,10,2 cholheres de chá rasas de manteiga de frutos gordos
+282,Gorduras,Manteiga e cremes light,"Creme vegetal para barrar 35% gordura, com fitosteróis",10,2 cholheres de chá rasas de creme vegetal
+283,Gorduras,Manteiga e cremes light,Creme vegetal para barrar 37% gordura,10,2 cholheres de chá rasas de creme vegetal
+284,Gorduras,Manteiga e cremes light,"Creme vegetal para barrar 58% gordura, com cálcio",10,2 cholheres de chá rasas de creme vegetal
+285,Gorduras,Gorduras e óleos,Manteiga com sal,5,1 colher de chá rasa
+286,Gorduras,Gorduras e óleos,Manteiga sem sal,5,1 colher de chá rasa
+287,Gorduras,Manteiga e cremes light,Manteiga magra,10,10 gramas
+288,Proteínas,Ovos,"Ovo de galinha líquido, pasteurizado",60,1 ovo (M)
+289,Proteínas,Ovos,"Ovo de galinha, cozido",60,1 ovo (M)
+290,Proteínas,Ovos,"Ovo de galinha, escalfado",60,1 ovo (M)
+291,Hidratos II,Pão,Pão de centeio,30,1/2 pão
+292,Hidratos II,Pão,Pão de centeio integral,30,1/2 pão
+293,Hidratos II,Pão,"Pão de forma, de trigo enriquecido",30,1/2 pão
+294,Hidratos II,Pão,Pão de mistura de trigo e centeio,30,1/2 pão
+295,Hidratos II,Pão,Pão de trigo,30,1/2 pão
+296,Hidratos II,Pão,Pão de trigo integral,30,1/2 pão
+297,Hidratos II,Pão,Pão de trigo integral com sementes de sésamo,30,1/2 pão
+298,Hidratos II,Pão,Pão pita,30,1/2 pão
+299,Hidratos II,Pão,Tosta de trigo,20,1 pacote de tostas extrafinas ou 3 tostas grandes
+300,Hidratos II,Pão,Tosta de trigo integral,25,3 tostas
+301,Hidratos II,Pão,Tosta de trigo sem sal,20,3 tostas
+302,Hidratos II,Pão,Tosta de trigo simples,20,3 tostas
+303,Proteínas,Peixes gordos,Atum fresco grelhado,30,30 gramas
+304,Proteínas,Peixes gordos,Cavala cozida,30,30 gramas
+305,Proteínas,Peixes gordos,Cavala grelhada,30,30 gramas
+306,Proteínas,Peixes gordos,Robalo cozido,30,30 gramas
+307,Proteínas,Peixes gordos,Robalo grelhado,30,30 gramas
+308,Proteínas,Peixes gordos,Salmão cozido,30,30 gramas
+309,Proteínas,Peixes gordos,Salmão grelhado,30,30 gramas
+310,Proteínas,Peixes gordos,Sarda cozida,30,30 gramas
+311,Proteínas,Peixes gordos,Sarda grelhada,30,30 gramas
+312,Proteínas,Peixes gordos,Sardinha gorda grelhada,30,30 gramas
+313,Proteínas,Peixes gordos,"Sardinha meio gorda conserva em água, sem espinha e sem pele",30,1 lata escorrida
+314,Proteínas,Peixes gordos,Sardinha meio gorda conserva em azeite (escorrido),30,1 lata escorrida
+315,Proteínas,Peixes gordos,Sardinha meio gorda grelhada,30,30 gramas
+316,Hidratos I,Queijo magro,"Queijo de vaca curado, magro",25,25 gramas
+317,Hidratos I,Queijo magro,Queijo flamengo light (-50% gordura),25,1 fatia
+318,Hidratos I,Queijo magro,Queijo fresco magro,60,3/4 queijo de 80g
+319,Hidratos I,Queijo MG,"Queijo de cabra atabafado, fresco",60,1/2 queijo de 120g
+320,Hidratos I,Queijo MG,"Queijo de vaca curado, meio gordo",30,30 gramas
+321,Hidratos I,Queijo MG,Queijo flamengo,30,"1,5 fatias"
+322,Proteínas,Soja,Soja cozida sem sal,50,50 gramas
+347,Hidratos I,Sopa,"Sopa, puré de vegetais",250,1 prato de sopa
+348,Proteínas,Tofu,Tofu simples,60,60 gramas
+349,Outros,Vinho ou Cerveja,Cerveja branca,200,1 mini (20 cl)
+350,Outros,Vinho ou Cerveja,Cerveja preta,200,2 mini (20 cl)
+351,Outros,Vinho ou Cerveja,Sidra (vinho de maçã),250,1 garrafa (25 cl)
+352,Outros,Vinho ou Cerveja,Vinho maduro branco,150,1 copo de 150 ml
+360,Proteínas,Whey e proteína vegetal,Proteína Whey (isolada),30,1 medidor de proteina (15g)
