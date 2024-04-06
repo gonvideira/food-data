@@ -7,12 +7,12 @@
 257,Hidratos II,Bolacha de Milho ou Arroz,Bolacha arroz,20,gramas,3.0,bolachas,de arroz,78.0,3.7,8.5,0.0,16,Hidratos
 258,Hidratos II,Bolacha de Milho ou Arroz,Bolacha milho,20,gramas,3.0,bolachas,de milho,85.5,1.8,7.3,0.0,18,Hidratos
 259,Hidratos II,Cereais e granola,"Cereal de pequeno almoço de trigo integral tipo ""Weetabix""",20,gramas,1.0,bolachas,de weetabix,71.5,2.0,10.7,0.0,15,Hidratos
-260,Hidratos II,Cereais e granola,"Cereal de pequeno almoço à base de farelo de trigo (tipo ""All-Bran"")",40,gramas,0.25,canecas,de cereais all bran,39.8,3.4,15.1,0.0,16,Hidratos
-261,Hidratos I,Fruta (200g),Amora,200,gramas,0.5,chavenas,de amora,4.5,0.9,1.4,0.0,9,Hidratos
-262,Hidratos I,Fruta (200g),Framboesa,200,gramas,0.5,chavenas,de framboesa,5.1,0.6,0.9,0.0,11,Hidratos
-263,Hidratos I,Fruta (200g),Mirtilo,200,gramas,0.5,chavenas,de mirtilo,6.4,0.6,0.5,0.0,13,Hidratos
-264,Hidratos I,Legumes (100g),Alcachofra crua,100,gramas,1.0,chavenas,"de vegetais em cru (exemplo: abóbora, brócolos, beringela, beterraba, cebola, cenoura, couveflor, couves, cogumelos, espargos, espinafres, grelos, nabo, pepino, tomate)",6.8,0.2,3.0,0.0,7,Hidratos
-265,Hidratos I,Legumes (consumo livre),Alface,100,gramas,1.0,chavenas,"de vegetais folhosos como alface, agrião, espinafres, beldroegas, acelga, canónigos, etc. (consumo livre)",0.8,0.2,1.8,0.0,1,Hidratos
+260,Hidratos II,Cereais e granola,"Cereal de pequeno almoço à base de farelo de trigo (tipo ""All-Bran"")",40,gramas,0.25,canecas,de cereais all-bran,39.8,3.4,15.1,0.0,16,Hidratos
+261,Hidratos I,Fruta (200g),Amora,200,gramas,0.5,chávenas,de amora,4.5,0.9,1.4,0.0,9,Hidratos
+262,Hidratos I,Fruta (200g),Framboesa,200,gramas,0.5,chávenas,de framboesa,5.1,0.6,0.9,0.0,11,Hidratos
+263,Hidratos I,Fruta (200g),Mirtilo,200,gramas,0.5,chávenas,de mirtilo,6.4,0.6,0.5,0.0,13,Hidratos
+264,Hidratos I,Legumes (100g),Alcachofra crua,100,gramas,1.0,chávenas,"de vegetais em cru (exemplo: abóbora, brócolos, beringela, beterraba, cebola, cenoura, couve-flor, couves, cogumelos, espargos, espinafres, grelos, nabo, pepino, tomate)",6.8,0.2,3.0,0.0,7,Hidratos
+265,Hidratos I,Legumes (consumo livre),Alface,100,gramas,1.0,chávenas,"de vegetais folhosos como alface, agrião, espinafres, beldroegas, acelga, canónicos, etc. (consumo livre)",0.8,0.2,1.8,0.0,1,Hidratos
 266,Gorduras,Gorduras e óleos,Azeite (4 marcas),5,gramas,1.0,colheres de chá,de azeite,0.0,99.9,0.0,0.0,5,Lipidos
 267,Gorduras,Gorduras e óleos,Manteiga com sal,5,gramas,1.0,colheres de chá,de manteiga com sal,0.7,81.8,0.1,0.0,5,Lipidos
 268,Gorduras,Manteiga de frutos gordos,Manteiga Amendoim,10,gramas,2.0,colheres de chá,de manteiga de frutos gordos,7.0,50.0,30.0,0.0,5,Lipidos
@@ -58,13 +58,13 @@
 308,Proteínas,Soja,Soja cozida sem sal,50,gramas,50.0,gramas,de soja cozida,5.6,7.5,12.5,0.0,7,Proteinas
 309,Proteínas,Tofu,Tofu simples,60,gramas,60.0,gramas,de tofu,0.7,4.4,8.5,0.0,6,Proteinas
 310,Hidratos I,Sopa,"Sopa, puré de vegetais",250,gramas,1.0,pratos,de sopa de legumes (=250ml),5.5,1.5,1.0,0.0,14,Hidratos
-311,Proteínas,Whey e proteína vegetal,Proteína Whey (isolada),30,gramas,1.0,copos medidores,de proteina,3.5,0.0,93.0,0.0,28,Proteinas
+311,Proteínas,Whey e proteína vegetal,Proteína Whey (isolada),30,gramas,1.0,copos medidores,de proteína,3.5,0.0,93.0,0.0,28,Proteinas
 312,Gorduras,Azeitona e Abacate,"Abacate, Hass",25,gramas,0.5,unidades,de um abacate pequeno,2.3,17.4,1.1,0.0,5,Lipidos
 313,Hidratos I,Fruta (100g),Laranja (3 variedades),100,gramas,1.0,unidades,de laranja,8.9,0.2,1.1,0.0,9,Hidratos
 316,Hidratos I,Fruta (100g),Maçã (média com e sem casca),100,gramas,1.0,unidades,de maçã,13.1,0.5,0.2,0.0,14,Hidratos
 317,Hidratos I,Fruta (100g),Nectarina,100,gramas,1.0,unidades,de nectarina,8.7,0.1,1.4,0.0,9,Hidratos
-318,Hidratos I,Fruta (100g),Pera (5 variedades),100,gramas,1.0,unidades,de pêra,9.4,0.4,0.3,0.0,10,Hidratos
-319,Hidratos I,Fruta (100g),Pêssego (2 variedades),100,gramas,1.0,unidades,de pessego,8.1,0.3,0.6,0.0,9,Hidratos
+318,Hidratos I,Fruta (100g),Pera (5 variedades),100,gramas,1.0,unidades,de pera,9.4,0.4,0.3,0.0,10,Hidratos
+319,Hidratos I,Fruta (100g),Pêssego (2 variedades),100,gramas,1.0,unidades,de pêssego,8.1,0.3,0.6,0.0,9,Hidratos
 320,Hidratos I,Fruta (100g),"Quivi, ""Kiwi""",100,gramas,1.0,unidades,de kiwi,10.9,0.5,1.1,0.0,11,Hidratos
 321,Hidratos I,Fruta (100g),Romã,100,gramas,1.0,unidades,de romã,12.0,0.4,0.4,0.0,12,Hidratos
 322,Hidratos I,Fruta (100g),Clementina,100,gramas,2.0,unidades,de clementinas,11.1,0.2,0.8,0.0,12,Hidratos
@@ -77,7 +77,7 @@
 329,Hidratos I,Fruta (50g),"Uva (média, branca e tinta)",50,gramas,8.0,unidades,de uva,18.0,0.5,0.3,0.0,9,Hidratos
 330,Hidratos I,Fruta (50g),Banana,50,gramas,0.5,unidades,de banana média,21.8,0.4,1.6,0.0,11,Hidratos
 331,Gorduras,Frutos Gordos,Castanha do Brasil,10,gramas,1.0,unidades,de castanha do brasil,2.6,66.7,9.6,0.0,7,Lipidos
-332,Gorduras,Frutos Gordos,"Amêndoa, miolo, com pele",10,gramas,5.0,unidades,de amendoa,7.2,56.0,21.6,0.0,6,Lipidos
+332,Gorduras,Frutos Gordos,"Amêndoa, miolo, com pele",10,gramas,5.0,unidades,de amêndoa,7.2,56.0,21.6,0.0,6,Lipidos
 333,Gorduras,Frutos Gordos,"Amendoim, miolo",10,gramas,9.0,unidades,de amendoim,10.1,47.7,25.4,0.0,5,Lipidos
 334,Gorduras,Frutos Gordos,"Avelã, miolo",10,gramas,9.0,unidades,de avelã,6.0,66.3,14.0,0.0,7,Lipidos
 335,Hidratos II,Guarnição,Batata cozida,80,gramas,1.0,unidades,de batata pequena,18.5,0.0,2.4,0.0,15,Hidratos
@@ -99,9 +99,9 @@
 351,Hidratos I,Queijo magro,Queijo fresco magro,60,gramas,0.75,unidades,de queijo fresco magro,6.9,1.8,13.0,0.0,8,Proteinas
 352,Hidratos I,Queijo MG,"Queijo de cabra atabafado, fresco",60,gramas,0.5,unidades,"queijo de cabra fresco, atabafado",2.5,15.4,13.0,0.0,8,Proteinas
 353,Hidratos I,Bebida de soja,"Bebida à base de soja com açúcar, sal e aromas",240,mililitros,1.0,canecas,de bebida de soja sem açúcares adicionados,6.4,2.2,3.8,0.0,16,Hidratos
-354,Hidratos I,Leite e iogurte magros,"Leite magro de pastagem, UHT ",240,mililitros,1.0,chavenas,de leite magro,4.9,0.1,3.1,0.0,12,Hidratos
-355,Hidratos I,Leite e iogurte MG,"Leite meio gordo de pastagem, UHT",240,mililitros,1.0,chavenas,de leite meio gordo,5.0,1.5,3.0,0.0,12,Hidratos
-356,Hidratos I,Leite Gordo,"Leite gordo especial, pasteurizado ",240,mililitros,1.0,chavenas,de leite gordo,4.8,3.4,3.1,0.0,12,Hidratos
+354,Hidratos I,Leite e iogurte magros,"Leite magro de pastagem, UHT ",240,mililitros,1.0,chávenas,de leite magro,4.9,0.1,3.1,0.0,12,Hidratos
+355,Hidratos I,Leite e iogurte MG,"Leite meio gordo de pastagem, UHT",240,mililitros,1.0,chávenas,de leite meio gordo,5.0,1.5,3.0,0.0,12,Hidratos
+356,Hidratos I,Leite Gordo,"Leite gordo especial, pasteurizado ",240,mililitros,1.0,chávenas,de leite gordo,4.8,3.4,3.1,0.0,12,Hidratos
 357,Outros,Vinho ou Cerveja,Vinho maduro branco,150,mililitros,1.0,copos,de 150 ml de vinho,1.2,0.0,0.1,9.6,15,Alcool
 358,Hidratos I,Leite e iogurte magros,"Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, com edulcorantes",180,mililitros,1.0,unidades,"de iogurte liquido magro, sem adição de açucares",5.0,0.1,3.3,0.0,9,Hidratos
 359,Outros,Vinho ou Cerveja,Cerveja branca,200,mililitros,1.0,unidades,de cerveja mini,0.5,0.0,0.4,3.7,8,Alcool
