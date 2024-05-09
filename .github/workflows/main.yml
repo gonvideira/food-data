@@ -40,3 +40,7 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "updated files" --allow-empty)
       - name: Push files
         run: git push --all
+      - name: Update Google Sheets
+        env:
+          API_KEY: ${{ secrets.GOOGLE_KEY }}
+        run: curl "https://script.google.com/macros/s/AKfycbzJzPH9c5tzKj-yQdEhDCOIK6lK7uOECdZ6zXTbVo7Tu0iVnuQKcw5z7SgCDRfNwa0oQw/exec?key=$GOOGLE_KEY"
