@@ -2,9 +2,12 @@ name: Python package
 
 on: 
   workflow_dispatch:
+  push:
+    paths:
+      - 'Equivalentes.xlsx'
 
 jobs:
-  retrieve:
+  update:
 
     runs-on: ubuntu-latest
 
