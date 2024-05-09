@@ -40,7 +40,8 @@ jobs:
           git diff-index --quiet HEAD || (git commit -a -m "updated files" --allow-empty)
       - name: Push files
         run: git push --all
-        timeout-minutes: 2
+      - name: Wait for 2 minutes
+        run: sleep 120  # Sleep for 120 seconds, which equals 2 minutes
       - name: Update Google Sheets
         env:
           API_KEY: ${{ secrets.GOOGLE_KEY }}
