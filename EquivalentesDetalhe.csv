@@ -27,12 +27,12 @@
 79,Hidratos II,Cereais ou granola,"Cereal de pequeno almoço à base de farelo de trigo (tipo ""All-Bran"")",40,gramas,0.25,canecas,de cereais all-bran,39.8,3.4,15.1,0.0,16,Hidratos
 80,Hidratos II,Cereais ou granola,Flocos de aveia,20,gramas,2.0,colheres de sopa cheias,de flocos de aveia,61.7,5.8,13.5,0.0,13,Hidratos
 81,Hidratos II,Cereais ou granola,"Flocos de cereais e frutos secos tipo ""Muesli""",20,gramas,2.0,colheres de sopa cheias,de muesli,69.1,6.3,10.4,0.0,14,Hidratos
-85,Hidratos II,Cereais ou granola,"Flocos de milho tipo ""Corn Flakes""",20,gramas,,,,81.1,1.1,7.9,0.0,17,Hidratos
-87,Hidratos II,Cereais ou granola,"Flocos de trigo e arroz enriquecidos com vitaminas, cálcio e ferro",20,gramas,,,,79.2,1.3,7.5,0.0,16,Hidratos
-88,Hidratos II,Cereais ou granola,"Flocos de trigo integral tipo ""All-Bran Flakes""",20,gramas,,,,64.2,1.9,10.2,0.0,13,Hidratos
+85,Hidratos II,Cereais ou granola,"Flocos de milho tipo ""Corn Flakes""",20,gramas,2.0,colheres de sopa cheias,"de flocos de milho tipo ""Corn Flakes""",81.1,1.1,7.9,0.0,17,Hidratos
+87,Hidratos II,Cereais ou granola,"Flocos de trigo e arroz enriquecidos com vitaminas, cálcio e ferro",20,gramas,2.0,colheres de sopa cheias,de flocos de trigo e arroz,79.2,1.3,7.5,0.0,16,Hidratos
+88,Hidratos II,Cereais ou granola,"Flocos de trigo integral tipo ""All-Bran Flakes""",20,gramas,2.0,colheres de sopa cheias,"de flocos de trigo integral tipo ""All-Bran Flakes""",64.2,1.9,10.2,0.0,13,Hidratos
 90,Outros,Claras,"Clara de ovo de galinha, crua",55,gramas,55.0,gramas,de clara crua,0.0,0.3,11.0,0.0,7,Proteinas
 95,Outros,Compotas,Compota de ameixa,5,gramas,1.0,colheres de chá ,de compota,49.2,0.0,0.3,0.0,3,Hidratos
-103,Outros,Farinhas,Farinha de trigo integral,20,gramas,,,,65.2,2.4,9.6,0.0,14,Hidratos
+103,Outros,Farinhas,Farinha de trigo integral,20,gramas,2.0,colheres de sopa cheias,de farinha de trigo integral,65.2,2.4,9.6,0.0,14,Hidratos
 106,Outros,Farinhas,Farinha de aveia,20,gramas,2.5,colheres de sopa cheias,"de farinha (aveia, centeio, trigo)",57.0,7.3,14.5,0.0,12,Hidratos
 110,Proteínas,Fiambre de aves,Fiambre de aves,50,gramas,3.0,fatias,de fiambre de aves,2.7,1.6,13.8,0.0,7,Proteinas
 129,Hidratos I,Fruta,Ananás ,100,gramas,1.0,fatias,de ananás,9.5,0.2,0.5,0.0,10,Hidratos
@@ -55,9 +55,9 @@
 149,Hidratos I,Fruta,Figo (5 variedades),50,gramas,1.0,,figo,16.3,0.5,0.9,0.0,9,Hidratos
 150,Hidratos I,Fruta,"Uva (média, branca e tinta)",50,gramas,8.0,,uvas,18.0,0.5,0.3,0.0,9,Hidratos
 151,Hidratos I,Fruta,Banana,50,gramas,0.5,,banana,21.8,0.4,1.6,0.0,11,Hidratos
-160,Outros,Fruta desidratada,Maçã desidratada,15,gramas,,,,74.5,2.9,1.1,0.0,12,Hidratos
-168,Outros,Fruta desidratada,Tâmara seca,15,gramas,,,,67.3,0.3,2.5,0.0,11,Hidratos
-169,Outros,Fruta desidratada,Uva seca (passas),15,gramas,,,,67.0,0.7,1.8,0.0,11,Hidratos
+160,Outros,Fruta desidratada,Maçã desidratada,15,gramas,0.5,pacote,de fruta desidratada,74.5,2.9,1.1,0.0,12,Hidratos
+168,Outros,Fruta desidratada,Tâmara seca,15,gramas,2.0,unidades,de tâmaras,67.3,0.3,2.5,0.0,11,Hidratos
+169,Outros,Fruta desidratada,Uva seca (passas),15,gramas,5.0,unidades,de passas,67.0,0.7,1.8,0.0,11,Hidratos
 178,Gorduras,Frutos gordos,Castanha do Brasil,10,gramas,1.0,,castanha do brasil,2.6,66.7,9.6,0.0,7,Lipidos
 179,Gorduras,Frutos gordos,"Amêndoa, miolo, com pele",10,gramas,5.0,,amêndoas,7.2,56.0,21.6,0.0,6,Lipidos
 180,Gorduras,Frutos gordos,"Amendoim, miolo",10,gramas,9.0,,amendoins,10.1,47.7,25.4,0.0,5,Lipidos
@@ -85,11 +85,11 @@
 265,Gorduras,Manteiga ou cremes light,"Creme vegetal para barrar 35% gordura, com fitosteróis",10,gramas,2.0,colheres de chá,de creme vegetal light,3.2,35.0,0.1,0.0,4,Lipidos
 266,Gorduras,Manteiga ou cremes light,Manteiga magra,10,gramas,2.0,colheres de chá,de manteiga magra,1.0,41.0,2.7,0.0,5,Lipidos
 269,Proteínas,Ovos,"Ovo de galinha líquido, pasteurizado",60,gramas,1.0,,ovo (tamanho M),0.0,9.3,11.9,0.0,8,Proteinas
-270,Hidratos II,Pão,Tosta de trigo integral,25,gramas,,,,62.6,5.1,15.4,0.0,16,Hidratos
-271,Hidratos II,Pão,Tosta de trigo sem sal,20,gramas,,,,72.7,3.8,11.3,0.0,15,Hidratos
+270,Hidratos II,Pão,Tosta de trigo integral,25,gramas,2.0,unidades,de tosta de trigo integral grande,62.6,5.1,15.4,0.0,16,Hidratos
+271,Hidratos II,Pão,Tosta de trigo sem sal,20,gramas,2.0,unidades,de tosta de trigo sem sal grande,72.7,3.8,11.3,0.0,15,Hidratos
 273,Hidratos II,Pão,"Pão de forma, de trigo enriquecido",30,gramas,1.0,fatias,"de pão de forma, de trigo enriquecido",54.5,2.7,8.7,0.0,17,Hidratos
 274,Hidratos II,Pão,Tosta de trigo,20,gramas,1.0,,pacotes individuais de tostas extrafinas,69.7,4.2,12.5,0.0,14,Hidratos
-276,Hidratos II,Pão,Pão de centeio integral,30,gramas,0.5,,bolas de pão de centeio integral,41.3,2.1,7.7,0.0,13,Hidratos
+275,Hidratos II,Pão,Pão de centeio,30,gramas,0.5,,bolas de pão de centeio,56.4,0.8,5.9,0.0,17,Hidratos
 288,Proteínas,Peixes gordos,Atum fresco grelhado,30,gramas,30.0,gramas,de atum fresco,0.0,5.8,28.4,0.0,9,Proteinas
 289,Proteínas,Peixes gordos,Cavala cozida,30,gramas,30.0,gramas,de cavala,0.0,12.2,20.5,0.0,7,Proteinas
 290,Proteínas,Peixes gordos,Robalo grelhado,30,gramas,30.0,gramas,de robalo,0.0,13.0,23.0,0.0,7,Proteinas
