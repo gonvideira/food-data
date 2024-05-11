@@ -1,13 +1,15 @@
 """Script that generates Equivalentes and Equivalentes files"""
 import pandas as pd
 
+# inputs
 input_path = "Lista Equivalentes.xlsx"
-output_path_tca = "TCA.json"
-output_path_equivalentes_detalhe = "EquivalentesDetalhe.json"
-output_path_equivalentes = "Equivalentes.json"
-output_path_equivalentes_csv = "Equivalentes.csv"
-output_path_equivalentes_resumo_csv = "EquivalentesResumo.csv"
-output_path_equivalentes_detalhe_csv = "EquivalentesDetalhe.csv"
+# outputs
+output_path_tca = "output/json/TCA.json"
+output_path_equivalentes_detalhe = "output/json/EquivalentesDetalhe.json"
+output_path_equivalentes = "output/json/Equivalentes.json"
+output_path_equivalentes_csv = "output/csv/Equivalentes.csv"
+output_path_equivalentes_resumo_csv = "output/csv/EquivalentesResumo.csv"
+output_path_equivalentes_detalhe_csv = "output/csv/EquivalentesDetalhe.csv"
 
 ##### Import relevante sheets from workbook #####
 
@@ -15,7 +17,7 @@ output_path_equivalentes_detalhe_csv = "EquivalentesDetalhe.csv"
 df1 = pd.read_excel(input_path,engine='openpyxl',sheet_name='TCA',usecols='A:AV')
 
 ## Equivalentes
-df2 = pd.read_excel(input_path,engine='openpyxl',sheet_name='Equivalentes',usecols='A:P')
+df2 = pd.read_excel(input_path,engine='openpyxl',sheet_name='Equivalentes',usecols='A:Q')
 
 ## Filter for those that count to the average
 df2_filter = df2[df2['Media'] == 'Sim']
