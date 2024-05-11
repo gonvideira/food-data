@@ -76,10 +76,10 @@
 242,Leguminosas,Leguminosas,"Tremoço, cozido e salgado",50,gramas,2.0,colheres de sopa,de tremoços cozidos e sem sal,7.2,2.4,16.4,0.0,9,Proteinas
 243,Leguminosas,Leguminosas,Ervilhas secas cozidas,80,gramas,3.0,colheres de sopa,"de leguminosas cozinhadas (ex: ervilhas, favas, grão de bico, feijão)",18.1,0.4,6.9,0.0,6,Proteinas
 247,Hidratos I,Leite gordo,"Leite gordo especial, pasteurizado ",240,mililitros,1.0,chávenas,de leite gordo,4.8,3.4,3.1,0.0,12,Hidratos
-254,Hidratos I,Leite ou iogurte magro,Iogurte grego magro natural ,250,gramas,2.0,,"iogurtes naturais sólidos, magros e sem adição de açucares (125g cada iogurte)",3.9,2.0,5.3,0.0,10,Hidratos
+254,Hidratos I,Leite ou iogurte magro,Iogurte grego magro natural ,250,gramas,2.0,,"iogurtes naturais sólidos, magros e sem adição de açúcares (125g cada iogurte)",3.9,2.0,5.3,0.0,10,Hidratos
 255,Hidratos I,Leite ou iogurte magro,"Leite magro de pastagem, UHT ",240,mililitros,1.0,chávenas,de leite magro,4.9,0.1,3.1,0.0,12,Hidratos
-256,Hidratos I,Leite ou iogurte magro,"Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, com edulcorantes",180,mililitros,1.0,,"iogurte liquido magro, sem adição de açucares",5.0,0.1,3.3,0.0,9,Hidratos
-260,Hidratos I,Leite ou iogurte meio gordo,"Iogurte meio gordo, natural",250,gramas,2.0,,"iogurtes naturais sólidos, magros e sem adição de açucares (125g cada iogurte)",5.0,1.8,4.2,0.0,13,Hidratos
+256,Hidratos I,Leite ou iogurte magro,"Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, com edulcorantes",180,mililitros,1.0,,"iogurte líquido magro, sem adição de açúcares",5.0,0.1,3.3,0.0,9,Hidratos
+260,Hidratos I,Leite ou iogurte meio gordo,"Iogurte meio gordo, natural",250,gramas,2.0,,"iogurtes naturais sólidos, sem adição de açúcares (125g cada iogurte)",5.0,1.8,4.2,0.0,13,Hidratos
 261,Hidratos I,Leite ou iogurte meio gordo,"Leite meio gordo de pastagem, UHT",240,mililitros,1.0,chávenas,de leite meio gordo,5.0,1.5,3.0,0.0,12,Hidratos
 262,Gorduras,Manteiga de frutos gordos,Manteiga Amendoim,10,gramas,2.0,colheres de chá,de manteiga de frutos gordos,7.0,50.0,30.0,0.0,5,Lipidos
 265,Gorduras,Manteiga ou cremes light,"Creme vegetal para barrar 35% gordura, com fitosteróis",10,gramas,2.0,colheres de chá,de creme vegetal light,3.2,35.0,0.1,0.0,4,Lipidos
@@ -95,9 +95,9 @@
 290,Proteínas,Peixes gordos,Robalo grelhado,30,gramas,30.0,gramas,de robalo,0.0,13.0,23.0,0.0,7,Proteinas
 291,Proteínas,Peixes gordos,Salmão cozido,30,gramas,30.0,gramas,de salmão,0.0,21.1,20.7,0.0,7,Proteinas
 292,Proteínas,Peixes gordos,Sardinha meio gorda grelhada,30,gramas,30.0,gramas,de sardinha,0.0,7.2,25.9,0.0,8,Proteinas
-293,Proteínas,Peixes gordos,"Sardinha meio gorda conserva em água, sem espinha e sem pele",30,gramas,1.0,,lata de sardinha conserva em água escorrida,0.0,9.6,22.0,0.0,7,Proteinas
-294,Proteínas,Peixes gordos,Sardinha meio gorda conserva em azeite (escorrido),30,gramas,1.0,,lata de sardinha conserva em azeite bem escorrida,0.0,9.0,26.3,0.0,8,Proteinas
-295,Hidratos I,Queijo magro,Queijo flamengo light (-50% gordura),25,gramas,1.0,,fatias de queijo flamengo magro ou queijinhos tipo babybell light ou triângulos de queijo fundido light,0.0,13.3,26.8,0.0,7,Proteinas
+293,Proteínas,Peixes gordos,"Sardinha meio gorda conserva em água, sem espinha e sem pele",30,gramas,0.5,lata,de sardinha conserva em água escorrida,0.0,9.6,22.0,0.0,7,Proteinas
+294,Proteínas,Peixes gordos,Sardinha meio gorda conserva em azeite (escorrido),30,gramas,0.5,lata,de sardinha conserva em azeite bem escorrida,0.0,9.0,26.3,0.0,8,Proteinas
+295,Hidratos I,Queijo magro,Queijo flamengo light (-50% gordura),25,gramas,0.5,,fatias de queijo flamengo magro ou queijinhos tipo babybell light ou triângulos de queijo fundido light,0.0,13.3,26.8,0.0,7,Proteinas
 296,Hidratos I,Queijo magro,"Queijo de vaca curado, magro",25,gramas,25.0,gramas,de queijo curado magro,2.4,10.0,27.1,0.0,7,Proteinas
 297,Hidratos I,Queijo magro,Queijo fresco magro,60,gramas,0.75,unidades,de queijo fresco magro,6.9,1.8,13.0,0.0,8,Proteinas
 299,Hidratos I,Queijo meio gordo,Queijo flamengo,30,gramas,1.0,,fatias de queijo flamengo ou queijinhos tipo babybell ou triângulos de queijo fundido,0.8,28.3,22.7,0.0,7,Proteinas
