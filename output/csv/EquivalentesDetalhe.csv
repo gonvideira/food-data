@@ -1,113 +1,113 @@
 ,Grupo,Nome,Alimento,Porcao,Un Porcao,Qtd Medida Caseira,Un Medida Caseira,Un Medida Caseira Plural,Texto Medida Caseira,Hidratos,Lipidos,Proteinas,Alcool,Medida,MacroCalculo
-1,Outros,Açúcares,Açúcar branco,15,gramas,1.0,colheres de sobremesa,colheres de sobremesa,de açúcar,99.3,0.0,0.0,0.0,15,Hidratos
-3,Gorduras,Azeitona ou abacate,"Abacate, Hass",25,gramas,0.5,,,abacate,2.3,17.4,1.1,0.0,5,Lipidos
-6,Hidratos II,Bolacha,"Bolacha ""Belga""",20,gramas,2.0,bolachas,bolachas,belga,70.1,19.6,7.1,0.0,15,Hidratos
-8,Hidratos II,Bolacha,Bolacha aveia,20,gramas,2.0,bolachas,bolachas,de aveia,57.5,18.3,10.0,0.0,12,Hidratos
-9,Hidratos II,Bolacha,Bolacha torrada,20,gramas,2.0,Bolachas,Bolachas,torradas,68.5,14.4,7.3,0.0,14,Hidratos
-10,Hidratos II,Bolacha,Bolacha integral (trigo),20,gramas,3.0,bolachas,bolachas,de trigo integral,65.6,15.6,8.8,0.0,14,Hidratos
-11,Hidratos II,Bolacha,"Bolacha ""Cream cracker""",20,gramas,2.0,bolachas,bolachas,"tipo ""Cream cracker""",61.6,16.2,10.8,0.0,13,Hidratos
-12,Hidratos II,Bolacha,Bolacha Maria,20,gramas,4.0,bolachas,bolachas,maria,72.0,12.2,8.4,0.0,15,Hidratos
-13,Hidratos II,Bolacha,Marinheiras,20,gramas,2.0,bolachas,bolachas,marinheiras,64.0,11.8,11.8,0.0,13,Hidratos
-14,Hidratos II,Bolacha,Bolacha água e sal,20,gramas,5.0,bolachas,bolachas,de água e sal redondas (20g),61.0,17.8,9.8,0.0,13,Hidratos
-15,Hidratos II,Bolacha de milho ou arroz,Bolacha arroz,20,gramas,3.0,bolachas,bolachas,de arroz,78.0,3.7,8.5,0.0,16,Hidratos
-16,Hidratos II,Bolacha de milho ou arroz,Bolacha milho,20,gramas,3.0,bolachas,bolachas,de milho,85.5,1.8,7.3,0.0,18,Hidratos
-17,Proteínas,Carne ou peixe,Bacalhau cozido,30,gramas,30.0,gramas,gramas,de bacalhau,0.0,0.1,26.2,0.0,8,Proteinas
-18,Proteínas,Carne ou peixe,Bife de porco grelhado,30,gramas,30.0,gramas,gramas,de porco,0.7,14.2,16.7,0.0,6,Proteinas
-19,Proteínas,Carne ou peixe,"Bife de vaca (valor médio de acém, alcatra e lombo) grelhado",30,gramas,30.0,gramas,gramas,"de carne de vaca magra (alcatra, acém ou lombo) ",0.0,6.4,26.4,0.0,8,Proteinas
-20,Proteínas,Carne ou peixe,Dourada grelhada,30,gramas,30.0,gramas,gramas,de dourada,0.0,9.9,22.3,0.0,7,Proteinas
-21,Proteínas,Carne ou peixe,"Frango inteiro sem pele, cozido",30,gramas,30.0,gramas,gramas,"de frango, sem pele",0.0,4.2,32.8,0.0,10,Proteinas
-22,Proteínas,Carne ou peixe,Garoupa cozida,30,gramas,30.0,gramas,gramas,de garoupa,0.0,2.0,20.8,0.0,7,Proteinas
-23,Proteínas,Carne ou peixe,Linguado grelhado,30,gramas,30.0,gramas,gramas,de linguado,0.0,0.2,23.1,0.0,7,Proteinas
-24,Proteínas,Carne ou peixe,Lombo de porco grelhado,30,gramas,30.0,gramas,gramas,de lombo de porco,0.0,8.1,29.1,0.0,9,Proteinas
-25,Proteínas,Carne ou peixe,Maruca cozida,30,gramas,30.0,gramas,gramas,de maruca,0.0,0.1,17.9,0.0,6,Proteinas
-26,Proteínas,Carne ou peixe,Peito de cabrito grelhado,30,gramas,30.0,gramas,gramas,de peito de cabrito,0.0,4.2,26.5,0.0,8,Proteinas
-27,Proteínas,Carne ou peixe,Pescada cozida (valor médio),30,gramas,30.0,gramas,gramas,de pescada,0.0,3.6,19.2,0.0,6,Proteinas
-28,Hidratos II,Cereais ou granola,"Cereal de pequeno almoço de trigo integral tipo ""Weetabix""",20,gramas,1.0,bolachas,bolachas,de weetabix,71.5,2.0,10.7,0.0,15,Hidratos
-78,Hidratos II,Cereais ou granola,"Cereal de pequeno almoço à base de farelo de trigo (tipo ""All-Bran"")",40,gramas,0.25,canecas,canecas,de cereais all-bran,39.8,3.4,15.1,0.0,16,Hidratos
-79,Hidratos II,Cereais ou granola,Flocos de aveia,20,gramas,2.0,colheres de sopa cheias,colheres de sopa cheias,de flocos de aveia,61.7,5.8,13.5,0.0,13,Hidratos
-80,Hidratos II,Cereais ou granola,"Flocos de cereais e frutos secos tipo ""Muesli""",20,gramas,2.0,colheres de sopa cheias,colheres de sopa cheias,de muesli,69.1,6.3,10.4,0.0,14,Hidratos
-81,Hidratos II,Cereais ou granola,"Flocos de milho tipo ""Corn Flakes""",20,gramas,2.0,colheres de sopa cheias,colheres de sopa cheias,"de flocos de milho tipo ""Corn Flakes""",81.1,1.1,7.9,0.0,17,Hidratos
-85,Hidratos II,Cereais ou granola,"Flocos de trigo e arroz enriquecidos com vitaminas, cálcio e ferro",20,gramas,2.0,colheres de sopa cheias,colheres de sopa cheias,de flocos de trigo e arroz,79.2,1.3,7.5,0.0,16,Hidratos
-87,Hidratos II,Cereais ou granola,"Flocos de trigo integral tipo ""All-Bran Flakes""",20,gramas,2.0,colheres de sopa cheias,colheres de sopa cheias,"de flocos de trigo integral tipo ""All-Bran Flakes""",64.2,1.9,10.2,0.0,13,Hidratos
-88,Outros,Claras,"Clara de ovo de galinha, crua",55,gramas,55.0,gramas,gramas,de clara crua,0.0,0.3,11.0,0.0,7,Proteinas
-90,Outros,Compotas,Compota de ameixa,5,gramas,1.0,colheres de chá ,colheres de chá ,de compota,49.2,0.0,0.3,0.0,3,Hidratos
-95,Outros,Farinhas,Farinha de trigo integral,20,gramas,2.0,colheres de sopa cheias,colheres de sopa cheias,de farinha de trigo integral,65.2,2.4,9.6,0.0,14,Hidratos
-103,Outros,Farinhas,Farinha de aveia,20,gramas,2.5,colheres de sopa cheias,colheres de sopa cheias,"de farinha (aveia, centeio, trigo)",57.0,7.3,14.5,0.0,12,Hidratos
-106,Proteínas,Fiambre de aves,Fiambre de aves,50,gramas,3.0,fatias,fatias,de fiambre de aves,2.7,1.6,13.8,0.0,7,Proteinas
-110,Hidratos I,Fruta,Ananás ,100,gramas,1.0,fatias,fatias,de ananás,9.5,0.2,0.5,0.0,10,Hidratos
-129,Hidratos I,Fruta,Laranja (3 variedades),100,gramas,1.0,,,laranja,8.9,0.2,1.1,0.0,9,Hidratos
-130,Hidratos I,Fruta,Maçã (média com e sem casca),100,gramas,1.0,,,maçã,13.1,0.5,0.2,0.0,14,Hidratos
-131,Hidratos I,Fruta,Nectarina,100,gramas,1.0,,,nectarina,8.7,0.1,1.4,0.0,9,Hidratos
-132,Hidratos I,Fruta,Pera (5 variedades),100,gramas,1.0,,,pêra,9.4,0.4,0.3,0.0,10,Hidratos
-133,Hidratos I,Fruta,Pêssego (2 variedades),100,gramas,1.0,,,pêssego,8.1,0.3,0.6,0.0,9,Hidratos
-134,Hidratos I,Fruta,"Quivi, ""Kiwi""",100,gramas,1.0,,,kiwi,10.9,0.5,1.1,0.0,11,Hidratos
-135,Hidratos I,Fruta,Romã,100,gramas,1.0,,,romã,12.0,0.4,0.4,0.0,12,Hidratos
-136,Hidratos I,Fruta,Clementina,100,gramas,2.0,,,clementinas,11.1,0.2,0.8,0.0,12,Hidratos
-137,Hidratos I,Fruta,Tangerina,100,gramas,2.0,,,tangerinas,8.7,0.1,0.7,0.0,9,Hidratos
-138,Hidratos I,Fruta,Ameixa encarnada,100,gramas,3.0,,,ameixas,7.4,0.2,0.8,0.0,8,Hidratos
-139,Hidratos I,Fruta,Cereja (4 variedades),100,gramas,20.0,,,cerejas,13.3,0.7,0.8,0.0,14,Hidratos
-140,Hidratos I,Fruta,Papaia,100,gramas,0.5,,,papaia,9.1,0.1,0.6,0.0,10,Hidratos
-141,Hidratos I,Fruta,Amora,200,gramas,0.5,chávenas,chávenas,"de amora, framboesa ou mirtilos",4.5,0.9,1.4,0.0,9,Hidratos
-142,Hidratos I,Fruta,Melancia,200,gramas,1.0,fatias,fatias,de melancia ou melão,5.5,0.2,0.4,0.0,11,Hidratos
-145,Hidratos I,Fruta,Meloa,200,gramas,2.0,fatias,fatias,de meloa,4.2,0.1,0.6,0.0,9,Hidratos
-147,Hidratos I,Fruta,Morango,200,gramas,8.0,,,morangos,5.3,0.4,0.6,0.0,11,Hidratos
-148,Hidratos I,Fruta,Figo (5 variedades),50,gramas,1.0,,,figo,16.3,0.5,0.9,0.0,9,Hidratos
-149,Hidratos I,Fruta,"Uva (média, branca e tinta)",50,gramas,8.0,,,uvas,18.0,0.5,0.3,0.0,9,Hidratos
-150,Hidratos I,Fruta,Banana,50,gramas,0.5,,,banana,21.8,0.4,1.6,0.0,11,Hidratos
-151,Outros,Fruta desidratada,Maçã desidratada,15,gramas,0.5,pacote,pacote,de fruta desidratada,74.5,2.9,1.1,0.0,12,Hidratos
-160,Outros,Fruta desidratada,Tâmara seca,15,gramas,2.0,unidades,unidades,de tâmaras,67.3,0.3,2.5,0.0,11,Hidratos
-168,Outros,Fruta desidratada,Uva seca (passas),15,gramas,5.0,unidades,unidades,de passas,67.0,0.7,1.8,0.0,11,Hidratos
-169,Gorduras,Frutos gordos,Castanha do Brasil,10,gramas,1.0,,,castanha do brasil,2.6,66.7,9.6,0.0,7,Lipidos
-178,Gorduras,Frutos gordos,"Amêndoa, miolo, com pele",10,gramas,5.0,,,amêndoas,7.2,56.0,21.6,0.0,6,Lipidos
-179,Gorduras,Frutos gordos,"Amendoim, miolo",10,gramas,9.0,,,amendoins,10.1,47.7,25.4,0.0,5,Lipidos
-180,Gorduras,Frutos gordos,"Avelã, miolo",10,gramas,9.0,,,avelãs,6.0,66.3,14.0,0.0,7,Lipidos
-181,Gorduras,Gorduras ou óleos,Azeite (4 marcas),5,gramas,1.0,colheres de chá,colheres de chá,de azeite,0.0,99.9,0.0,0.0,5,Lipidos
-186,Gorduras,Gorduras ou óleos,Manteiga com sal,5,gramas,1.0,colheres de chá,colheres de chá,de manteiga com sal,0.7,81.8,0.1,0.0,5,Lipidos
-187,Hidratos II,Guarnição,Arroz cozido simples,60,gramas,3.0,colheres de sopa,colheres de sopa,de arroz cozido,28.0,0.2,2.5,0.0,17,Hidratos
-188,Hidratos II,Guarnição,Couscous cozido,60,gramas,3.0,colheres de sopa,colheres de sopa,de couscous cozido,23.0,0.2,3.8,0.0,14,Hidratos
-189,Hidratos II,Guarnição,Esparguete cozido,80,gramas,3.0,colheres de sopa,colheres de sopa,de massa,19.9,0.6,3.4,0.0,16,Hidratos
-190,Hidratos II,Guarnição,Quinoa cozida,60,gramas,3.0,colheres de sopa,colheres de sopa,de quinoa cozida,26.35,2.22,5.01,0.0,16,Hidratos
-191,Hidratos II,Guarnição,Batata cozida,80,gramas,1.0,,,batatas pequenas,18.5,0.0,2.4,0.0,15,Hidratos
-194,Hidratos II,Guarnição,Batata doce assada,60,gramas,1.0,,,batatas doces pequenas,28.3,0.0,1.0,0.0,17,Hidratos
-195,Hidratos I,Iogurtes proteicos magros,Queijo Quark natural magro,125,gramas,125.0,gramas,gramas,de queijo quark,4.0,0.3,10.3,0.0,13,Proteinas
-196,Hidratos I,Iogurtes proteicos magros,"Iogurte sem lactose enriquecido em proteína, magro, aromatizado, com pedaços e/ou polpa de fruta, açucarado",150,gramas,1.0,,,iogurte proteico tipo skyr,9.7,0.0,9.0,0.0,14,Proteinas
-197,Hidratos I,Legumes,Alcachofra crua,100,gramas,1.0,chávenas,chávenas,"de vegetais em cru (exemplo: abóbora, brócolos, beringela, beterraba, cebola, cenoura, couve-flor, couves, cogumelos, espargos, espinafres, grelos, nabo, pepino, tomate)",6.8,0.2,3.0,0.0,7,Hidratos
-231,Leguminosas,Leguminosas,"Tremoço, cozido e salgado",50,gramas,2.0,colheres de sopa,colheres de sopa,de tremoços cozidos e sem sal,7.2,2.4,16.4,0.0,9,Proteinas
-242,Leguminosas,Leguminosas,Ervilhas secas cozidas,80,gramas,3.0,colheres de sopa,colheres de sopa,"de leguminosas cozinhadas (ex: ervilhas, favas, grão de bico, feijão)",18.1,0.4,6.9,0.0,6,Proteinas
-243,Hidratos I,Leite ou iogurte magro,Iogurte grego magro natural ,250,gramas,2.0,,,"iogurtes naturais sólidos, magros e sem adição de açúcares (125g cada iogurte)",3.9,2.0,5.3,0.0,10,Hidratos
-247,Hidratos I,Leite ou iogurte meio gordo,"Iogurte meio gordo, natural",250,gramas,2.0,,,"iogurtes naturais sólidos, sem adição de açúcares (125g cada iogurte)",5.0,1.8,4.2,0.0,13,Hidratos
-254,Gorduras,Manteiga de frutos gordos,Manteiga Amendoim,10,gramas,2.0,colheres de chá,colheres de chá,de manteiga de frutos gordos,7.0,50.0,30.0,0.0,5,Lipidos
-255,Gorduras,Manteiga ou cremes light,"Creme vegetal para barrar 35% gordura, com fitosteróis",10,gramas,2.0,colheres de chá,colheres de chá,de creme vegetal light,3.2,35.0,0.1,0.0,4,Lipidos
-256,Gorduras,Manteiga ou cremes light,Manteiga magra,10,gramas,2.0,colheres de chá,colheres de chá,de manteiga magra,1.0,41.0,2.7,0.0,5,Lipidos
-260,Proteínas,Ovos,"Ovo de galinha líquido, pasteurizado",60,gramas,1.0,,,ovo (tamanho M),0.0,9.3,11.9,0.0,8,Proteinas
-261,Hidratos II,Pão,Tosta de trigo integral,25,gramas,2.0,unidades,unidades,de tosta de trigo integral grande,62.6,5.1,15.4,0.0,16,Hidratos
-262,Hidratos II,Pão,Tosta de trigo sem sal,20,gramas,2.0,unidades,unidades,de tosta de trigo sem sal grande,72.7,3.8,11.3,0.0,15,Hidratos
-265,Hidratos II,Pão,"Pão de forma, de trigo enriquecido",30,gramas,1.0,fatias,fatias,"de pão de forma, de trigo enriquecido",54.5,2.7,8.7,0.0,17,Hidratos
-266,Hidratos II,Pão,Tosta de trigo,20,gramas,1.0,,,pacotes individuais de tostas extrafinas,69.7,4.2,12.5,0.0,14,Hidratos
-269,Hidratos II,Pão,Pão de centeio,30,gramas,0.5,,,bolas de pão de centeio,56.4,0.8,5.9,0.0,17,Hidratos
-270,Proteínas,Peixes gordos,Atum fresco grelhado,30,gramas,30.0,gramas,gramas,de atum fresco,0.0,5.8,28.4,0.0,9,Proteinas
-271,Proteínas,Peixes gordos,Cavala cozida,30,gramas,30.0,gramas,gramas,de cavala,0.0,12.2,20.5,0.0,7,Proteinas
-273,Proteínas,Peixes gordos,Robalo grelhado,30,gramas,30.0,gramas,gramas,de robalo,0.0,13.0,23.0,0.0,7,Proteinas
-274,Proteínas,Peixes gordos,Salmão cozido,30,gramas,30.0,gramas,gramas,de salmão,0.0,21.1,20.7,0.0,7,Proteinas
-275,Proteínas,Peixes gordos,Sardinha meio gorda grelhada,30,gramas,30.0,gramas,gramas,de sardinha,0.0,7.2,25.9,0.0,8,Proteinas
-288,Proteínas,Peixes gordos,"Sardinha meio gorda conserva em água, sem espinha e sem pele",30,gramas,0.5,lata,lata,de sardinha conserva em água escorrida,0.0,9.6,22.0,0.0,7,Proteinas
-289,Proteínas,Peixes gordos,Sardinha meio gorda conserva em azeite (escorrido),30,gramas,0.5,lata,lata,de sardinha conserva em azeite bem escorrida,0.0,9.0,26.3,0.0,8,Proteinas
-290,Hidratos I,Queijo magro,Queijo flamengo light (-50% gordura),25,gramas,0.5,,,fatias de queijo flamengo magro ou queijinhos tipo babybell light ou triângulos de queijo fundido light,0.0,13.3,26.8,0.0,7,Proteinas
-291,Hidratos I,Queijo magro,"Queijo de vaca curado, magro",25,gramas,25.0,gramas,gramas,de queijo curado magro,2.4,10.0,27.1,0.0,7,Proteinas
-292,Hidratos I,Queijo magro,Queijo fresco magro,60,gramas,0.75,unidades,unidades,de queijo fresco magro,6.9,1.8,13.0,0.0,8,Proteinas
-293,Hidratos I,Queijo meio gordo,Queijo flamengo,30,gramas,1.0,,,fatias de queijo flamengo ou queijinhos tipo babybell ou triângulos de queijo fundido,0.8,28.3,22.7,0.0,7,Proteinas
-294,Hidratos I,Queijo meio gordo,"Queijo de cabra atabafado, fresco",60,gramas,0.5,unidades,unidades,"queijo de cabra fresco, atabafado",2.5,15.4,13.0,0.0,8,Proteinas
-295,Hidratos I,Salada (vegetais folhosos),Alface,100,gramas,1.0,porção,porção,"de vegetais folhosos como alface, agrião, espinafres, beldroegas, acelga, canónicos, etc. (consumo livre)",0.8,0.2,1.8,0.0,1,Hidratos
-296,Proteínas,Soja,Soja cozida sem sal,50,gramas,50.0,gramas,gramas,de soja cozida,5.6,7.5,12.5,0.0,7,Proteinas
-297,Hidratos I,Sopa,"Sopa, puré de vegetais",250,gramas,1.0,pratos,pratos,de sopa de legumes,5.5,1.5,1.0,0.0,14,Hidratos
-299,Proteínas,Tofu,Tofu simples,60,gramas,60.0,gramas,gramas,de tofu,0.7,4.4,8.5,0.0,6,Proteinas
-300,Proteínas,Whey ou proteína vegetal,Proteína Whey (isolada),30,gramas,1.0,copos medidores,copos medidores,de proteína,3.5,0.0,93.0,0.0,28,Proteinas
-321,Hidratos I,Bebida de soja,"Bebida à base de soja com açúcar, sal e aromas",240,mililitros,1.0,canecas,canecas,de bebida de soja sem açúcares adicionados,6.4,2.2,3.8,0.0,16,Hidratos
-322,Hidratos I,Leite gordo,"Leite gordo especial, pasteurizado ",240,mililitros,1.0,chávenas,chávenas,de leite gordo,4.8,3.4,3.1,0.0,12,Hidratos
-347,Hidratos I,Leite ou iogurte magro,"Leite magro de pastagem, UHT ",240,mililitros,1.0,chávenas,chávenas,de leite magro,4.9,0.1,3.1,0.0,12,Hidratos
-348,Hidratos I,Leite ou iogurte magro,"Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, com edulcorantes",180,mililitros,1.0,,,"iogurte líquido magro, sem adição de açúcares",5.0,0.1,3.3,0.0,9,Hidratos
-354,Hidratos I,Leite ou iogurte meio gordo,"Leite meio gordo de pastagem, UHT",240,mililitros,1.0,chávenas,chávenas,de leite meio gordo,5.0,1.5,3.0,0.0,12,Hidratos
-355,Outros,Vinho ou cerveja,Vinho maduro branco,150,mililitros,1.0,copos,copos,de 150 ml de vinho,1.2,0.0,0.1,9.6,15,Alcool
-356,Outros,Vinho ou cerveja,Cerveja branca,200,mililitros,1.0,unidades,unidades,de cerveja mini,0.5,0.0,0.4,3.7,8,Alcool
-357,Outros,Vinho ou cerveja,Cerveja preta,200,mililitros,1.0,unidades,unidades,de cerveja preta mini,0.6,0.0,0.5,2.6,6,Alcool
-361,Outros,Vinho ou cerveja,Sidra (vinho de maçã),250,mililitros,1.0,unidades,unidades,de garrafa de sidra,2.3,0.0,0.0,5.5,14,Alcool
+0,Hidratos II,Bolacha,"Bolacha ""Belga""",20,gramas,2.0,bolacha,bolachas,belga,70.1,19.6,7.1,0.0,15,Hidratos
+1,Hidratos II,Bolacha,Bolacha aveia,20,gramas,2.0,bolacha,bolachas,de aveia,57.5,18.3,10.0,0.0,12,Hidratos
+2,Hidratos II,Bolacha,Bolacha torrada,20,gramas,2.0,bolacha,Bolachas,torradas,68.5,14.4,7.3,0.0,14,Hidratos
+3,Hidratos II,Bolacha,Bolacha integral (trigo),20,gramas,3.0,bolacha,bolachas,de trigo integral,65.6,15.6,8.8,0.0,14,Hidratos
+4,Hidratos II,Bolacha,"Bolacha ""Cream cracker""",20,gramas,2.0,bolacha,bolachas,"tipo ""Cream cracker""",61.6,16.2,10.8,0.0,13,Hidratos
+5,Hidratos II,Bolacha,Bolacha Maria,20,gramas,4.0,bolacha,bolachas,maria,72.0,12.2,8.4,0.0,15,Hidratos
+6,Hidratos II,Bolacha,Marinheiras,20,gramas,2.0,bolacha,bolachas,marinheiras,64.0,11.8,11.8,0.0,13,Hidratos
+7,Hidratos II,Bolacha,Bolacha água e sal,20,gramas,5.0,bolacha,bolachas,de água e sal redondas (20g),61.0,17.8,9.8,0.0,13,Hidratos
+8,Hidratos II,Bolacha de milho ou arroz,Bolacha arroz,20,gramas,3.0,bolacha,bolachas,de arroz,78.0,3.7,8.5,0.0,16,Hidratos
+9,Hidratos II,Bolacha de milho ou arroz,Bolacha milho,20,gramas,3.0,bolacha,bolachas,de milho,85.5,1.8,7.3,0.0,18,Hidratos
+10,Hidratos II,Cereais ou granola,"Cereal de pequeno almoço de trigo integral tipo ""Weetabix""",20,gramas,1.0,bolacha,bolachas,de weetabix,71.5,2.0,10.7,0.0,15,Hidratos
+11,Hidratos II,Cereais ou granola,"Cereal de pequeno almoço à base de farelo de trigo (tipo ""All-Bran"")",40,gramas,0.25,caneca,canecas,de cereais all-bran,39.8,3.4,15.1,0.0,16,Hidratos
+12,Hidratos I,Bebida de soja,"Bebida à base de soja com açúcar, sal e aromas",240,mililitros,1.0,caneca,canecas,de bebida de soja sem açúcares adicionados,6.4,2.2,3.8,0.0,16,Hidratos
+13,Hidratos I,Fruta,Amora,200,gramas,0.5,chávena,chávenas,"de amora, framboesa ou mirtilos",4.5,0.9,1.4,0.0,9,Hidratos
+16,Hidratos I,Legumes,Alcachofra crua,100,gramas,1.0,chávena,chávenas,"de vegetais em cru (exemplo: abóbora, brócolos, beringela, beterraba, cebola, cenoura, couve-flor, couves, cogumelos, espargos, espinafres, grelos, nabo, pepino, tomate)",6.8,0.2,3.0,0.0,7,Hidratos
+17,Hidratos I,Leite gordo,"Leite gordo especial, pasteurizado ",240,mililitros,1.0,chávena,chávenas,de leite gordo,4.8,3.4,3.1,0.0,12,Hidratos
+18,Hidratos I,Leite ou iogurte magro,"Leite magro de pastagem, UHT ",240,mililitros,1.0,chávena,chávenas,de leite magro,4.9,0.1,3.1,0.0,12,Hidratos
+19,Hidratos I,Leite ou iogurte meio gordo,"Leite meio gordo de pastagem, UHT",240,mililitros,1.0,chávena,chávenas,de leite meio gordo,5.0,1.5,3.0,0.0,12,Hidratos
+20,Gorduras,Gorduras ou óleos,Azeite (4 marcas),5,gramas,1.0,colher de chá,colheres de chá,de azeite,0.0,99.9,0.0,0.0,5,Lipidos
+21,Gorduras,Gorduras ou óleos,Manteiga com sal,5,gramas,1.0,colher de chá,colheres de chá,de manteiga com sal,0.7,81.8,0.1,0.0,5,Lipidos
+22,Gorduras,Manteiga de frutos gordos,Manteiga Amendoim,10,gramas,2.0,colher de chá,colheres de chá,de manteiga de frutos gordos,7.0,50.0,30.0,0.0,5,Lipidos
+23,Gorduras,Manteiga ou cremes light,"Creme vegetal para barrar 35% gordura, com fitosteróis",10,gramas,2.0,colher de chá,colheres de chá,de creme vegetal light,3.2,35.0,0.1,0.0,4,Lipidos
+24,Gorduras,Manteiga ou cremes light,Manteiga magra,10,gramas,2.0,colher de chá,colheres de chá,de manteiga magra,1.0,41.0,2.7,0.0,5,Lipidos
+25,Outros,Compotas,Compota de ameixa,5,gramas,1.0,colher de chá ,colheres de chá ,de compota,49.2,0.0,0.3,0.0,3,Hidratos
+26,Outros,Açúcares,Açúcar branco,15,gramas,1.0,colher de sobremesa,colheres de sobremesa,de açúcar,99.3,0.0,0.0,0.0,15,Hidratos
+27,Hidratos II,Guarnição,Arroz cozido simples,60,gramas,3.0,colher de sopa,colheres de sopa,de arroz cozido,28.0,0.2,2.5,0.0,17,Hidratos
+28,Hidratos II,Guarnição,Couscous cozido,60,gramas,3.0,colher de sopa,colheres de sopa,de couscous cozido,23.0,0.2,3.8,0.0,14,Hidratos
+29,Hidratos II,Guarnição,Esparguete cozido,80,gramas,3.0,colher de sopa,colheres de sopa,de massa,19.9,0.6,3.4,0.0,16,Hidratos
+30,Hidratos II,Guarnição,Quinoa cozida,60,gramas,3.0,colher de sopa,colheres de sopa,de quinoa cozida,26.35,2.22,5.01,0.0,16,Hidratos
+31,Leguminosas,Leguminosas,"Tremoço, cozido e salgado",50,gramas,2.0,colher de sopa,colheres de sopa,de tremoços cozidos e sem sal,7.2,2.4,16.4,0.0,9,Proteinas
+32,Leguminosas,Leguminosas,Ervilhas secas cozidas,80,gramas,3.0,colher de sopa,colheres de sopa,"de leguminosas cozinhadas (ex: ervilhas, favas, grão de bico, feijão)",18.1,0.4,6.9,0.0,6,Proteinas
+33,Hidratos II,Cereais ou granola,Flocos de aveia,20,gramas,2.0,colher de sopa cheia,colheres de sopa cheias,de flocos de aveia,61.7,5.8,13.5,0.0,13,Hidratos
+34,Hidratos II,Cereais ou granola,"Flocos de cereais e frutos secos tipo ""Muesli""",20,gramas,2.0,colher de sopa cheia,colheres de sopa cheias,de muesli,69.1,6.3,10.4,0.0,14,Hidratos
+35,Hidratos II,Cereais ou granola,"Flocos de milho tipo ""Corn Flakes""",20,gramas,2.0,colher de sopa cheia,colheres de sopa cheias,"de flocos de milho tipo ""Corn Flakes""",81.1,1.1,7.9,0.0,17,Hidratos
+36,Hidratos II,Cereais ou granola,"Flocos de trigo e arroz enriquecidos com vitaminas, cálcio e ferro",20,gramas,2.0,colher de sopa cheia,colheres de sopa cheias,de flocos de trigo e arroz,79.2,1.3,7.5,0.0,16,Hidratos
+37,Hidratos II,Cereais ou granola,"Flocos de trigo integral tipo ""All-Bran Flakes""",20,gramas,2.0,colher de sopa cheia,colheres de sopa cheias,"de flocos de trigo integral tipo ""All-Bran Flakes""",64.2,1.9,10.2,0.0,13,Hidratos
+38,Outros,Farinhas,Farinha de trigo integral,20,gramas,2.0,colher de sopa cheia,colheres de sopa cheias,de farinha de trigo integral,65.2,2.4,9.6,0.0,14,Hidratos
+39,Outros,Farinhas,Farinha de aveia,20,gramas,2.5,colher de sopa cheia,colheres de sopa cheias,"de farinha (aveia, centeio, trigo)",57.0,7.3,14.5,0.0,12,Hidratos
+40,Outros,Vinho ou cerveja,Vinho maduro branco,150,mililitros,1.0,copo,copos,de 150 ml de vinho,1.2,0.0,0.1,9.6,15,Alcool
+41,Proteínas,Whey ou proteína vegetal,Proteína Whey (isolada),30,gramas,1.0,copo medidor,copos medidores,de proteína,3.5,0.0,93.0,0.0,28,Proteinas
+42,Proteínas,Fiambre de aves,Fiambre de aves,50,gramas,3.0,fatia,fatias,de fiambre de aves,2.7,1.6,13.8,0.0,7,Proteinas
+43,Hidratos I,Fruta,Ananás ,100,gramas,1.0,fatia,fatias,de ananás,9.5,0.2,0.5,0.0,10,Hidratos
+44,Hidratos I,Fruta,Melancia,200,gramas,1.0,fatia,fatias,de melancia ou melão,5.5,0.2,0.4,0.0,11,Hidratos
+45,Hidratos I,Fruta,Meloa,200,gramas,2.0,fatia,fatias,de meloa,4.2,0.1,0.6,0.0,9,Hidratos
+47,Hidratos II,Pão,"Pão de forma, de trigo enriquecido",30,gramas,1.0,fatia,fatias,"de pão de forma, de trigo enriquecido",54.5,2.7,8.7,0.0,17,Hidratos
+48,Proteínas,Carne ou peixe,Bacalhau cozido,30,gramas,30.0,gramas,gramas,de bacalhau,0.0,0.1,26.2,0.0,8,Proteinas
+49,Proteínas,Carne ou peixe,Bife de porco grelhado,30,gramas,30.0,gramas,gramas,de porco,0.7,14.2,16.7,0.0,6,Proteinas
+50,Proteínas,Carne ou peixe,"Bife de vaca (valor médio de acém, alcatra e lombo) grelhado",30,gramas,30.0,gramas,gramas,"de carne de vaca magra (alcatra, acém ou lombo) ",0.0,6.4,26.4,0.0,8,Proteinas
+51,Proteínas,Carne ou peixe,Dourada grelhada,30,gramas,30.0,gramas,gramas,de dourada,0.0,9.9,22.3,0.0,7,Proteinas
+52,Proteínas,Carne ou peixe,"Frango inteiro sem pele, cozido",30,gramas,30.0,gramas,gramas,"de frango, sem pele",0.0,4.2,32.8,0.0,10,Proteinas
+53,Proteínas,Carne ou peixe,Garoupa cozida,30,gramas,30.0,gramas,gramas,de garoupa,0.0,2.0,20.8,0.0,7,Proteinas
+54,Proteínas,Carne ou peixe,Linguado grelhado,30,gramas,30.0,gramas,gramas,de linguado,0.0,0.2,23.1,0.0,7,Proteinas
+55,Proteínas,Carne ou peixe,Lombo de porco grelhado,30,gramas,30.0,gramas,gramas,de lombo de porco,0.0,8.1,29.1,0.0,9,Proteinas
+56,Proteínas,Carne ou peixe,Maruca cozida,30,gramas,30.0,gramas,gramas,de maruca,0.0,0.1,17.9,0.0,6,Proteinas
+57,Proteínas,Carne ou peixe,Peito de cabrito grelhado,30,gramas,30.0,gramas,gramas,de peito de cabrito,0.0,4.2,26.5,0.0,8,Proteinas
+58,Proteínas,Carne ou peixe,Pescada cozida (valor médio),30,gramas,30.0,gramas,gramas,de pescada,0.0,3.6,19.2,0.0,6,Proteinas
+59,Outros,Claras,"Clara de ovo de galinha, crua",55,gramas,55.0,gramas,gramas,de clara crua,0.0,0.3,11.0,0.0,7,Proteinas
+60,Hidratos I,Iogurtes proteicos magros,Queijo Quark natural magro,125,gramas,125.0,gramas,gramas,de queijo quark,4.0,0.3,10.3,0.0,13,Proteinas
+61,Proteínas,Peixes gordos,Atum fresco grelhado,30,gramas,30.0,gramas,gramas,de atum fresco,0.0,5.8,28.4,0.0,9,Proteinas
+62,Proteínas,Peixes gordos,Cavala cozida,30,gramas,30.0,gramas,gramas,de cavala,0.0,12.2,20.5,0.0,7,Proteinas
+63,Proteínas,Peixes gordos,Robalo grelhado,30,gramas,30.0,gramas,gramas,de robalo,0.0,13.0,23.0,0.0,7,Proteinas
+64,Proteínas,Peixes gordos,Salmão cozido,30,gramas,30.0,gramas,gramas,de salmão,0.0,21.1,20.7,0.0,7,Proteinas
+65,Proteínas,Peixes gordos,Sardinha meio gorda grelhada,30,gramas,30.0,gramas,gramas,de sardinha,0.0,7.2,25.9,0.0,8,Proteinas
+66,Hidratos I,Queijo magro,"Queijo de vaca curado, magro",25,gramas,25.0,gramas,gramas,de queijo curado magro,2.4,10.0,27.1,0.0,7,Proteinas
+67,Proteínas,Soja,Soja cozida sem sal,50,gramas,50.0,gramas,gramas,de soja cozida,5.6,7.5,12.5,0.0,7,Proteinas
+68,Proteínas,Tofu,Tofu simples,60,gramas,60.0,gramas,gramas,de tofu,0.7,4.4,8.5,0.0,6,Proteinas
+69,Proteínas,Peixes gordos,"Sardinha meio gorda conserva em água, sem espinha e sem pele",30,gramas,0.5,lata,latas,de sardinha conserva em água escorrida,0.0,9.6,22.0,0.0,7,Proteinas
+70,Proteínas,Peixes gordos,Sardinha meio gorda conserva em azeite (escorrido),30,gramas,0.5,lata,latas,de sardinha conserva em azeite bem escorrida,0.0,9.0,26.3,0.0,8,Proteinas
+71,Outros,Fruta desidratada,Maçã desidratada,15,gramas,0.5,pacote,pacotes,de fruta desidratada,74.5,2.9,1.1,0.0,12,Hidratos
+72,Hidratos I,Salada (vegetais folhosos),Alface,100,gramas,1.0,porção,porções,"de vegetais folhosos como alface, agrião, espinafres, beldroegas, acelga, canónicos, etc. (consumo livre)",0.8,0.2,1.8,0.0,1,Hidratos
+73,Hidratos I,Sopa,"Sopa, puré de vegetais",250,gramas,1.0,pratos,pratos,de sopa de legumes,5.5,1.5,1.0,0.0,14,Hidratos
+74,Outros,Fruta desidratada,Tâmara seca,15,gramas,2.0,unidade,unidades,de tâmaras,67.3,0.3,2.5,0.0,11,Hidratos
+75,Outros,Fruta desidratada,Uva seca (passas),15,gramas,5.0,unidade,unidades,de passas,67.0,0.7,1.8,0.0,11,Hidratos
+76,Hidratos II,Pão,Tosta de trigo integral,25,gramas,2.0,unidade,unidades,de tosta de trigo integral grande,62.6,5.1,15.4,0.0,16,Hidratos
+77,Hidratos II,Pão,Tosta de trigo sem sal,20,gramas,2.0,unidade,unidades,de tosta de trigo sem sal grande,72.7,3.8,11.3,0.0,15,Hidratos
+78,Hidratos I,Queijo magro,Queijo fresco magro,60,gramas,0.75,unidade,unidades,de queijo fresco magro,6.9,1.8,13.0,0.0,8,Proteinas
+79,Hidratos I,Queijo meio gordo,"Queijo de cabra atabafado, fresco",60,gramas,0.5,unidade,unidades,"queijo de cabra fresco, atabafado",2.5,15.4,13.0,0.0,8,Proteinas
+80,Outros,Vinho ou cerveja,Cerveja branca,200,mililitros,1.0,unidade,unidades,de cerveja mini,0.5,0.0,0.4,3.7,8,Alcool
+81,Outros,Vinho ou cerveja,Cerveja preta,200,mililitros,1.0,unidade,unidades,de cerveja preta mini,0.6,0.0,0.5,2.6,6,Alcool
+82,Outros,Vinho ou cerveja,Sidra (vinho de maçã),250,mililitros,1.0,unidade,unidades,de garrafa de sidra,2.3,0.0,0.0,5.5,14,Alcool
+85,Gorduras,Azeitona ou abacate,"Abacate, Hass",25,gramas,0.5,,,abacate,2.3,17.4,1.1,0.0,5,Lipidos
+177,Hidratos I,Fruta,Laranja (3 variedades),100,gramas,1.0,,,laranja,8.9,0.2,1.1,0.0,9,Hidratos
+178,Hidratos I,Fruta,Maçã (média com e sem casca),100,gramas,1.0,,,maçã,13.1,0.5,0.2,0.0,14,Hidratos
+179,Hidratos I,Fruta,Nectarina,100,gramas,1.0,,,nectarina,8.7,0.1,1.4,0.0,9,Hidratos
+180,Hidratos I,Fruta,Pera (5 variedades),100,gramas,1.0,,,pêra,9.4,0.4,0.3,0.0,10,Hidratos
+181,Hidratos I,Fruta,Pêssego (2 variedades),100,gramas,1.0,,,pêssego,8.1,0.3,0.6,0.0,9,Hidratos
+182,Hidratos I,Fruta,"Quivi, ""Kiwi""",100,gramas,1.0,,,kiwi,10.9,0.5,1.1,0.0,11,Hidratos
+183,Hidratos I,Fruta,Romã,100,gramas,1.0,,,romã,12.0,0.4,0.4,0.0,12,Hidratos
+184,Hidratos I,Fruta,Clementina,100,gramas,2.0,,,clementinas,11.1,0.2,0.8,0.0,12,Hidratos
+185,Hidratos I,Fruta,Tangerina,100,gramas,2.0,,,tangerinas,8.7,0.1,0.7,0.0,9,Hidratos
+186,Hidratos I,Fruta,Ameixa encarnada,100,gramas,3.0,,,ameixas,7.4,0.2,0.8,0.0,8,Hidratos
+187,Hidratos I,Fruta,Cereja (4 variedades),100,gramas,20.0,,,cerejas,13.3,0.7,0.8,0.0,14,Hidratos
+188,Hidratos I,Fruta,Papaia,100,gramas,0.5,,,papaia,9.1,0.1,0.6,0.0,10,Hidratos
+189,Hidratos I,Fruta,Morango,200,gramas,8.0,,,morangos,5.3,0.4,0.6,0.0,11,Hidratos
+190,Hidratos I,Fruta,Figo (5 variedades),50,gramas,1.0,,,figo,16.3,0.5,0.9,0.0,9,Hidratos
+191,Hidratos I,Fruta,"Uva (média, branca e tinta)",50,gramas,8.0,,,uvas,18.0,0.5,0.3,0.0,9,Hidratos
+192,Hidratos I,Fruta,Banana,50,gramas,0.5,,,banana,21.8,0.4,1.6,0.0,11,Hidratos
+208,Gorduras,Frutos gordos,Castanha do Brasil,10,gramas,1.0,,,castanha do brasil,2.6,66.7,9.6,0.0,7,Lipidos
+217,Gorduras,Frutos gordos,"Amêndoa, miolo, com pele",10,gramas,5.0,,,amêndoas,7.2,56.0,21.6,0.0,6,Lipidos
+218,Gorduras,Frutos gordos,"Amendoim, miolo",10,gramas,9.0,,,amendoins,10.1,47.7,25.4,0.0,5,Lipidos
+219,Gorduras,Frutos gordos,"Avelã, miolo",10,gramas,9.0,,,avelãs,6.0,66.3,14.0,0.0,7,Lipidos
+224,Hidratos II,Guarnição,Batata cozida,80,gramas,1.0,,,batatas pequenas,18.5,0.0,2.4,0.0,15,Hidratos
+227,Hidratos II,Guarnição,Batata doce assada,60,gramas,1.0,,,batatas doces pequenas,28.3,0.0,1.0,0.0,17,Hidratos
+228,Hidratos I,Iogurtes proteicos magros,"Iogurte sem lactose enriquecido em proteína, magro, aromatizado, com pedaços e/ou polpa de fruta, açucarado",150,gramas,1.0,,,iogurte proteico tipo skyr,9.7,0.0,9.0,0.0,14,Proteinas
+272,Hidratos I,Leite ou iogurte magro,Iogurte grego magro natural ,250,gramas,2.0,,,"iogurtes naturais sólidos, magros e sem adição de açúcares (125g cada iogurte)",3.9,2.0,5.3,0.0,10,Hidratos
+276,Hidratos I,Leite ou iogurte meio gordo,"Iogurte meio gordo, natural",250,gramas,2.0,,,"iogurtes naturais sólidos, sem adição de açúcares (125g cada iogurte)",5.0,1.8,4.2,0.0,13,Hidratos
+286,Proteínas,Ovos,"Ovo de galinha líquido, pasteurizado",60,gramas,1.0,,,ovo (tamanho M),0.0,9.3,11.9,0.0,8,Proteinas
+289,Hidratos II,Pão,Tosta de trigo,20,gramas,1.0,,,pacotes individuais de tostas extrafinas,69.7,4.2,12.5,0.0,14,Hidratos
+292,Hidratos II,Pão,Pão de centeio,30,gramas,0.5,,,bolas de pão de centeio,56.4,0.8,5.9,0.0,17,Hidratos
+306,Hidratos I,Queijo magro,Queijo flamengo light (-50% gordura),25,gramas,0.5,,,fatias de queijo flamengo magro ou queijinhos tipo babybell light ou triângulos de queijo fundido light,0.0,13.3,26.8,0.0,7,Proteinas
+307,Hidratos I,Queijo meio gordo,Queijo flamengo,30,gramas,1.0,,,fatias de queijo flamengo ou queijinhos tipo babybell ou triângulos de queijo fundido,0.8,28.3,22.7,0.0,7,Proteinas
+353,Hidratos I,Leite ou iogurte magro,"Iogurte sem lactose líquido, magro, aromatizado, com polpa de fruta, com edulcorantes",180,mililitros,1.0,,,"iogurte líquido magro, sem adição de açúcares",5.0,0.1,3.3,0.0,9,Hidratos
